@@ -1,0 +1,17 @@
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\bin\Debug\net6.0-windows\Win Form Paint Homework.exe
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\bin\Debug\net6.0-windows\Win Form Paint Homework.deps.json
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\bin\Debug\net6.0-windows\Win Form Paint Homework.runtimeconfig.json
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\bin\Debug\net6.0-windows\Win Form Paint Homework.dll
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\bin\Debug\net6.0-windows\Win Form Paint Homework.pdb
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\obj\Debug\net6.0-windows\Win Form Paint Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\obj\Debug\net6.0-windows\Win_Form_Paint_Homework.Form1.resources
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\obj\Debug\net6.0-windows\Win Form Paint Homework.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\obj\Debug\net6.0-windows\Win Form Paint Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\obj\Debug\net6.0-windows\Win Form Paint Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\obj\Debug\net6.0-windows\Win Form Paint Homework.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\obj\Debug\net6.0-windows\Win Form Paint Homework.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\obj\Debug\net6.0-windows\Win Form Paint Homework.dll
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\obj\Debug\net6.0-windows\refint\Win Form Paint Homework.dll
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\obj\Debug\net6.0-windows\Win Form Paint Homework.pdb
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\obj\Debug\net6.0-windows\Win Form Paint Homework.genruntimeconfig.cache
+C:\Users\hasan\source\repos\Win Form Paint Homework\Win Form Paint Homework\obj\Debug\net6.0-windows\ref\Win Form Paint Homework.dll
